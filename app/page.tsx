@@ -36,7 +36,6 @@ export default function App() {
       <h1>Globalie - English tuturing platform</h1>
       <div>
       <br />How it works:
-      <br />
       <br />1. Login
       <br />2. Matching a student with a teacher, manualy or randomly
       <br />3. English learning via one-on-one audio call (via Amazon Chime)
@@ -46,7 +45,6 @@ export default function App() {
       </div>
       <div>
       <br />Social impacts:
-      <br />
       <br />1. Low-cost English learning platform 🥳--- More frequent learning opportunities
       <br />2. English learning from situation-based "chats" 🥳--- Practical communication for specific situations (e.g., business, school, private)
       <br />3. AI-driven teaching guidance 🥳--- Anyone with English fluency can teach, rejoining labor force towards a better society!
