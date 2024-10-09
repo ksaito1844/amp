@@ -44,7 +44,6 @@ export default function App() {
       <br />5. AI-driven guidance to lead teacheres (TBD)
       <br />6. Text is monitored for inappropreate contents for a safe learning environment (via a content-monitoring program)
       </div>
-      <br />
       <div>
       <br />Social impacts:
       <br />
