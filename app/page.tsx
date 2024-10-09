@@ -34,6 +34,7 @@ export default function App() {
   return (
     <main>
       <h1>Globalie - English tuturing platform</h1>
+      <div>
       <br />How it works:
       <br />
       <br />1. Login
@@ -42,12 +43,16 @@ export default function App() {
       <br />4. Audio conversation is converted to text for ease of learning (via a speech-to-text program)
       <br />5. AI-driven guidance to lead teacheres (TBD)
       <br />6. Text is monitored for inappropreate contents for a safe learning environment (via a content-monitoring program)
+      </div>
       <br />
+      <div>
       <br />Social impacts:
       <br />
-      <br />1. Low-cost English learning platform 🥳> More frequent learning opportunities
-      <br />2. English learning from situation-based "chats" 🥳> Practical communication for specific situations (e.g., business, school, private)
-      <br />3. AI-driven teaching guidance 🥳> Anyone with English fluency can teach, rejoining labor force towards a better society!
+      <br />1. Low-cost English learning platform 🥳--- More frequent learning opportunities
+      <br />2. English learning from situation-based "chats" 🥳--- Practical communication for specific situations (e.g., business, school, private)
+      <br />3. AI-driven teaching guidance 🥳--- Anyone with English fluency can teach, rejoining labor force towards a better society!
+      </div>
+      <br />
       <button onClick={createTodo}>Start-up business milestones</button>
       <ul>
         {todos.map((todo) => (
