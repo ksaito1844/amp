@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Globalie (under construction)</h1>
+      <h1>Globalie (under construction); How is works:;1. Login; 2. Matching between student and teacher; 3. English learning via one-on-one </h1>
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (
@@ -41,7 +41,7 @@ export default function App() {
         ))}
       </ul>
       <div>
-        🥳 App successfully hosted. Try creating a new todo.
+        🥳 App successfully hosted. 
         <br />
         <a href="https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/">
           Review next steps of this tutorial.
