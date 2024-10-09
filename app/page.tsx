@@ -34,7 +34,7 @@ export default function App() {
   return (
     <main>
       <div>
-      <b>Globalie - English tutoring platform</b>
+      <br /><b>Globalie - English tutoring platform</b>
       <br />How it works:
       <br />1. Login
       <br />2. Matching a student with a teacher, manualy or randomly
