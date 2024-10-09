@@ -51,7 +51,7 @@ export default function App() {
       <div>
         🥳 App successfully hosted by AWS Amplify. 
         <br />
-        <a href="info@globalie.us">
+        <a href="mailto:info@globalie.us">
           Send message
         </a>
       </div>
