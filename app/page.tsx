@@ -50,7 +50,7 @@ export default function App() {
       <br />3. AI-driven teaching guidance 🥳--- Anyone with English fluency can teach, rejoining labor force towards a better society!
       </div>
       <br />
-      <button onClick={createTodo}>Start-up business milestones</button>
+      <button onClick={createTodo}>Start-up business milestones (all incomplete)</button>
       <ul>
         {todos.map((todo) => (
           <li key={todo.id}>{todo.content}</li>
