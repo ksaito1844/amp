@@ -36,12 +36,12 @@ export default function App() {
       <div>
       <br /><b>Globalie - English tutoring platform</b>
       <br />How it works:
-      <br />1. Login
-      <br />2. Matching a student with a teacher, selectively or randomly
-      <br />3. English learning via one-on-one audio call (via Amazon Chime)
+      <br />1. Log in as a student or a teacher
+      <br />2. Get paired with a teacher, selectively or randomly
+      <br />3. Learn English via one-on-one audio call (via Amazon Chime)
       <br />4. Audio conversation is converted to text for ease of learning (via speech-to-text program)
       <br />5. AI-driven teaching guidance (TBD)
-      <br />6. Text is monitored for inappropreate contents for a safe learning environment (via content-monitoring program)
+      <br />6. The text is monitored for inappropreate contents for a safe learning environment (via content-monitoring program)
       </div>
       <div>
       <br />Social impacts:
