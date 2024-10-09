@@ -41,8 +41,7 @@ export default function App() {
       <br />4. Audio is converted to text for ease of learning
       <br />5. AI-driven guidance for teaching materials
       <br />6. Text is monitored for inappropreat contents for safe learning environment
-      <n/>
-      <n/>
+      
       <button>Join as a Student</button>
       <button>Join as a Teacher</button>
       <button onClick={createTodo}>Please share your idea!</button>
@@ -54,8 +53,8 @@ export default function App() {
       <div>
         🥳 App successfully hosted by AWS Amplify. 
         <br />
-        <a href="https://docs.amplify.aws/nextjs/start/quickstart/nextjs-app-router-client-components/">
-          Review next steps of this tutorial.
+        <a href="info@globalie.us">
+          Send message
         </a>
       </div>
     </main>
