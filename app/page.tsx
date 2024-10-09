@@ -33,7 +33,14 @@ export default function App() {
 
   return (
     <main>
-      <h1>Globalie - English tuturing platform (under construction); How it works:;1. Login; 2. Matching between student and teacher; 3. English learning via one-on-one audio call; 4. Audio is converted to text for ease of learning; 5. AI-driven guidance for teaching materials; 6. Text is monitored for inappropreat contents for safe learning environment </h1>
+      <h1>Globalie - English tuturing platform (under construction)</h1>
+      <br>How it works:</br>
+      <br>1. Login</br>
+      <br>2. Matching between student and teacher</br> 
+      <br>3. English learning via one-on-one audio call</br>
+      <br>4. Audio is converted to text for ease of learning</br>
+      <br>5. AI-driven guidance for teaching materials</br>
+      <br>6. Text is monitored for inappropreat contents for safe learning environment</br>
       <button onClick={createTodo}>+ new</button>
       <ul>
         {todos.map((todo) => (
