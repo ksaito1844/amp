@@ -38,10 +38,10 @@ export default function App() {
       <br />
       <br />1. Login
       <br />2. Matching a student with a teacher, manualy or randomly
-      <br />3. English learning via one-on-one audio call (Amazon Chime)
-      <br />4. Audio conversation is converted to text for ease of learning (speech-to-text program)
+      <br />3. English learning via one-on-one audio call (via Amazon Chime)
+      <br />4. Audio conversation is converted to text for ease of learning (via a speech-to-text program)
       <br />5. AI-driven guidance to lead teacheres (TBD)
-      <br />6. Text is monitored for inappropreate contents for a safe learning environment (content monitoring program)
+      <br />6. Text is monitored for inappropreate contents for a safe learning environment (via a content-monitoring program)
       <br />
       <br />Social impacts:
       <br />
