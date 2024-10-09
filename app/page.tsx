@@ -37,17 +37,17 @@ export default function App() {
       <br /><b>Globalie - English tutoring platform</b>
       <br />How it works:
       <br />1. Login
-      <br />2. Matching a student with a teacher, manualy or randomly
+      <br />2. Matching a student with a teacher, selectively or randomly
       <br />3. English learning via one-on-one audio call (via Amazon Chime)
-      <br />4. Audio conversation is converted to text for ease of learning (via a speech-to-text program)
-      <br />5. AI-driven guidance to lead teacheres (TBD)
-      <br />6. Text is monitored for inappropreate contents for a safe learning environment (via a content-monitoring program)
+      <br />4. Audio conversation is converted to text for ease of learning (via speech-to-text program)
+      <br />5. AI-driven teaching guidance (TBD)
+      <br />6. Text is monitored for inappropreate contents for a safe learning environment (via content-monitoring program)
       </div>
       <div>
       <br />Social impacts:
       <br />1. Low-cost English learning platform 🥳--- More frequent learning opportunities
       <br />2. English learning from situation-based "chats" 🥳--- Practical communication for specific situations (e.g., business, school, private)
-      <br />3. AI-driven teaching guidance 🥳--- Anyone with English fluency can teach, rejoining labor force towards a better society!
+      <br />3. AI-driven teaching guidance 🥳--- Anyone with English fluency can teach, rejoining the labor force to make the society a better place!
       </div>
       <br />
       <button onClick={createTodo}>Start-up business milestones (all incomplete)</button>
