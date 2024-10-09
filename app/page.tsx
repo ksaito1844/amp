@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <main>
-      <h1>Globalie - English tutoring platform</h1>
+      <a>Globalie - English tutoring platform</a>
       <div>
       <br />How it works:
       <br />1. Login
