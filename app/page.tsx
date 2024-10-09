@@ -27,7 +27,7 @@ export default function App() {
 
   function createTodo() {
     client.models.Todo.create({
-      content: window.prompt("Todo content"),
+      content: window.prompt("Ideas for improvement"),
     });
   }
 
@@ -41,10 +41,8 @@ export default function App() {
       <br />4. Audio is converted to text for ease of learning
       <br />5. AI-driven guidance for teaching materials
       <br />6. Text is monitored for inappropreat contents for safe learning environment
-      
-      <button>Join as a Student</button>
-      <button>Join as a Teacher</button>
-      <button onClick={createTodo}>Please share your idea!</button>
+
+      <button onClick={createTodo}>Please share your idea for improvement!</button>
       <ul>
         {todos.map((todo) => (
           <li key={todo.id}>{todo.content}</li>
