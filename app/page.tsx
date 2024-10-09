@@ -34,7 +34,7 @@ export default function App() {
   return (
     <main>
       <h1>Globalie - English tuturing platform (under construction)</h1>
-      <br>How it works:</br>
+      <br />How it works:
       <br />1. Login
       <br />2. Matching between student and teacher
       <br />3. English learning via one-on-one audio call
