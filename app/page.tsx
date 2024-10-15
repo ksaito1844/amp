@@ -34,29 +34,22 @@ export default function App() {
   return (
     <main>
       <div>
-      <br /><b>Globalie - English tutoring platform</b>
+      <br /><b>Globalie - Language tutoring platform</b>
       <br />How it works:
       <br />1. Log in as a student or a teacher
-      <br />2. Get paired with a teacher, selectively or randomly
+      <br />2. Get paired with a teacher instantly
       <br />3. Learn English via one-on-one audio call (via Agora)
       <br />4. Audio conversation is converted to text for ease of learning (via Azure AI Speed)
-      <br />5. AI-driven teaching guidance (TBD)
+      <br />5. AI-driven guidance for teachers toward optimized learning (TBD)
       <br />6. The text is monitored for inappropreate contents for a safe learning environment (via Azure AI Search)
       </div>
       <div>
       <br />Social impacts:
-      <br />1. Low-cost English learning platform 🥳--- More frequent learning opportunities
-      <br />2. English learning from situation-based "chats" 🥳--- Practical communication for specific situations (e.g., business, school, private)
-      <br />3. AI-driven teaching guidance 🥳--- Anyone with English fluency can teach, rejoining the labor force to make the society a better place!
+      <br />1. Low cost language learning platform 🥳--- More frequent learning opportunities
+      <br />2. Language learning from situation-based "chats" 🥳--- Practical communication for specific situations (e.g., business, school, private)
+      <br />3. AI-driven teaching guidance 🥳--- Anyone fluent in the language can teach, rejoining the labor force to make the society a better place!
       </div>
       <br />
- /*     <button onClick={createTodo}>Start-up business milestones (all incomplete)</button>
-      <ul>
-        {todos.map((todo) => (
-          <li key={todo.id}>{todo.content}</li>
-        ))}
-      </ul>
-      <div>*/
         App hosted by AWS Amplify. 
         <br />
         <a href="mailto:info@globalie.us">
