@@ -50,12 +50,12 @@ export default function App() {
       <br />3. AI-driven teaching guidance 🥳--- Anyone with English fluency can teach, rejoining the labor force to make the society a better place!
       </div>
       <br />
-      <button onClick={createTodo}>Start-up business milestones (all incomplete)</button>
+ //     <button onClick={createTodo}>Start-up business milestones (all incomplete)</button>
       <ul>
         {todos.map((todo) => (
           <li key={todo.id}>{todo.content}</li>
         ))}
-      </ul>
+      </ul>//
       <div>
         App hosted by AWS Amplify. 
         <br />
