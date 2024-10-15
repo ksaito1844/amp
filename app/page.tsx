@@ -49,6 +49,7 @@ export default function App() {
       <br />2. Language learning from situation-based "chats" 🥳--- Practical communication for specific situations (e.g., business, school, private)
       <br />3. AI-driven teaching guidance 🥳--- Anyone fluent in the language can teach, rejoining the labor force to make the society a better place!
       </div>
+      <div>
       <br />
         App hosted by AWS Amplify. 
         <br />
