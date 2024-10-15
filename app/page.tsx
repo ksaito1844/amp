@@ -38,10 +38,10 @@ export default function App() {
       <br />How it works:
       <br />1. Log in as a student or a teacher
       <br />2. Get paired with a teacher, selectively or randomly
-      <br />3. Learn English via one-on-one audio call (via Amazon Chime)
-      <br />4. Audio conversation is converted to text for ease of learning (via speech-to-text program)
+      <br />3. Learn English via one-on-one audio call (via Agora)
+      <br />4. Audio conversation is converted to text for ease of learning (via Azure AI Speed)
       <br />5. AI-driven teaching guidance (TBD)
-      <br />6. The text is monitored for inappropreate contents for a safe learning environment (via content-monitoring program)
+      <br />6. The text is monitored for inappropreate contents for a safe learning environment (via Azure AI Search)
       </div>
       <div>
       <br />Social impacts:
@@ -50,13 +50,13 @@ export default function App() {
       <br />3. AI-driven teaching guidance 🥳--- Anyone with English fluency can teach, rejoining the labor force to make the society a better place!
       </div>
       <br />
- //     <button onClick={createTodo}>Start-up business milestones (all incomplete)</button>
+ /*     <button onClick={createTodo}>Start-up business milestones (all incomplete)</button>
       <ul>
         {todos.map((todo) => (
           <li key={todo.id}>{todo.content}</li>
         ))}
-      </ul>//
-      <div>
+      </ul>
+      <div>*/
         App hosted by AWS Amplify. 
         <br />
         <a href="mailto:info@globalie.us">
